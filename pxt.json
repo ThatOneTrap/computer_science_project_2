@@ -1,0 +1,22 @@
+{
+    "name": "computer_science_project",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "darts": "*",
+        "palette": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.3"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "blocksprj"
+}
